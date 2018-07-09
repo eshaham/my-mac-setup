@@ -23,6 +23,10 @@ I believe I have tried as many GTD (Get Things Done) apps as the number of years
 ![image](https://user-images.githubusercontent.com/7040645/42423801-05e4f55e-8309-11e8-8bc3-d5c514316b56.png)
 
 ## Coding
+### Atom (text editor++) - [site](https://atom.io/)
+Different jobs have different IDE requirements, and I usually prefer to use a [JetBrains](http://jetbrains.com/) IDE for coding, but I always need my Atom ready and handy for simpler tasks / web development.
+
+![image](https://user-images.githubusercontent.com/7040645/42434654-a7443eac-835c-11e8-8e9d-9d4df3a4cabc.png)
 
 ## Contributing
 Feel free to file issues with questions or suggestions about my setup
