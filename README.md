@@ -17,6 +17,11 @@ They support most of the commonly used apps out there, and can sync your profile
 
 ![image](https://user-images.githubusercontent.com/7040645/42423657-9144e2ce-8306-11e8-99c7-1a752d770741.png)
 
+### 1Password (Password management) - [site](https://1password.com/)
+The best password manager on the planet. Worth every penny.
+
+![image](https://user-images.githubusercontent.com/7040645/42434883-61854b4e-835d-11e8-8314-b3902324a055.png)
+
 ### Todoist (GTD) - [site](https://todoist.com/)
 I believe I have tried as many GTD (Get Things Done) apps as the number of years I've been alive, including trying to create one by myself, back in my WPF days (say what???). None of these app has survived on my app list more than Todoist. Its' simplicity, ease of adding a new task with a due date and support for ALL different platforms, has helped me reach tasking bliss.
 
