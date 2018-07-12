@@ -33,5 +33,12 @@ Different jobs have different IDE requirements, and I usually prefer to use a [J
 
 ![image](https://user-images.githubusercontent.com/7040645/42434654-a7443eac-835c-11e8-8e9d-9d4df3a4cabc.png)
 
+I also make sure to link atom in the bin folder, so I can open a folder/file in atom from the terminal `atom FOLDER_NAME`:
+
+```bash
+sudo ln -s /Applications/Atom.app/Contents/Resources/app/atom.sh /usr/local/bin/atom
+```
+
+
 ## Contributing
 Feel free to file issues with questions or suggestions about my setup
