@@ -39,6 +39,11 @@ I also make sure to link atom in the bin folder, so I can open a folder/file in 
 sudo ln -s /Applications/Atom.app/Contents/Resources/app/atom.sh /usr/local/bin/atom
 ```
 
+### tig (git compare+ for terminal) - [site](https://jonas.github.io/tig/)
+When it comes to git, I prefer to stay in terminal, and don't like all the fancy desktop apps.
+tig has many features built it, but I mostly use it to stage/unstage files and see what I have in my stash list.
+
+![image](https://user-images.githubusercontent.com/7040645/42676949-c0dbb952-8682-11e8-98c5-b5d24b3cac55.png)
 
 ## Contributing
 Feel free to file issues with questions or suggestions about my setup
